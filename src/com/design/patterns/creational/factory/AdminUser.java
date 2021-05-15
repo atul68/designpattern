@@ -1,8 +1,4 @@
-package com.design.patterns.creational.factory.simple;
-
-import com.design.patterns.creational.builder.Address;
-
-import java.time.LocalDate;
+package com.design.patterns.creational.factory;
 
 public class AdminUser extends  User {
 

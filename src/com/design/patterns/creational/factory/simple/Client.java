@@ -1,5 +1,7 @@
 package com.design.patterns.creational.factory.simple;
 
+import com.design.patterns.creational.factory.User;
+
 public class Client {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.design.patterns.creational.factory.simple;
+package com.design.patterns.creational.factory;
 
 import com.design.patterns.creational.builder.Address;
 

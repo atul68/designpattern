@@ -1,5 +1,8 @@
 package com.design.patterns.creational.factory.simple;
 
+import com.design.patterns.creational.factory.AdminUser;
+import com.design.patterns.creational.factory.User;
+
 public class UserFactory {
 
     public static User createUser(String type) {
